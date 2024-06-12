@@ -6,11 +6,15 @@
 
 ###
 
+
 <img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV4dWh5MWp2ZG9hbTV5cmZhYTRnN3hka2hpcjJ5dDQ1NmVzMDIxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.webp"  />
 
 ###
 
 <div align="left">
+
+ ![Visitor Count](https://profile-counter.glitch.me/tayoakosile/count.svg)
+
   <a href="https://www.linkedin.com/in/tayo-akosile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -29,27 +33,12 @@
 
 <br clear="both">
 
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
-###
-
-<div align="center">
-  
-  
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tayoakosile&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayoakosile&show_icons=true&locale=en&show_icons=true&theme=dracula&rank_icon=github" alt="tayoakosile" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayoakosile&theme=dracula" alt="tayoakosile" /></p>
-
-</div>
 
 
 - 🔭 I’m currently working on [Pharmachain HealthCare Company](https://www.pharmachain.africa/)
@@ -73,14 +62,20 @@
 
 
 
-
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayoakosile&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayoakosile&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tayoakosile&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayoakosile&show_icons=true&locale=en&show_icons=true&theme=dracula&rank_icon=github" alt="tayoakosile" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayoakosile&theme=dracula" alt="tayoakosile" /></p>
+
 </div>
+
+
