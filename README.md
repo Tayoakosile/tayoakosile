@@ -34,20 +34,20 @@
 <br clear="both">
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
 
 
 
-- 🔭 I’m currently working on [Pharmachain HealthCare Company](https://www.pharmachain.africa/)
+
+- 🔭 I’m currently working on [Holbrook Asphalt]([https://www.pharmachain.africa/](https://holbrookasphalt.com/))
 
 - 🌱 I’m currently learning **A.I, Data Structure and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tayoakosile](https://github.com/tayoakosile)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about Git, React, Node.js, Vue, Next.js, Express.Js.
 
 - 📫 How to reach me **tayoakosile@gmail.com**
 
