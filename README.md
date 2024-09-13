@@ -70,7 +70,7 @@
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tayoakosile&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayoakosile&show_icons=true&locale=en&show_icons=true&theme=dracula&rank_icon=github" alt="tayoakosile" /></p>
+
 
 
 
