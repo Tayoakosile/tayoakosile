@@ -90,9 +90,7 @@ Interactive learning projects built for teaching kids HTML, CSS, and web develop
 
 ## Connect With Me
 
-- Portfolio: your-portfolio-link
-- LinkedIn: your-linkedin
-- Twitter/X: your-twitter
+- Portfolio: tayoakosile.tech
 - YouTube: Code with Tayo Akosile
 
 ---
